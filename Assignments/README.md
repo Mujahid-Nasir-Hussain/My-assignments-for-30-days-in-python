@@ -92,6 +92,7 @@ python-class-exercises/
 
 Contributions to this repository are welcome! If you have additional exercises or suggestions for improvement, feel free to fork this repository, make changes, and submit a pull request.
 
+
 ## **Contact**
 
 For questions or suggestions, reach out to me:  
